@@ -1,16 +1,16 @@
 {
-	"name": "Nimble Sheet",
-	"version": "1.9.1",
-	"manifest_version": 1,
-	"icon": "https://nimblesheet.ttrpg.tools/favicon.svg?1",
-	"homepage_url": "https://ttrpg.tools/project/nimblesheets/",
-	"description": "A character sheet / encounter manager for the tabletop role-playing game system, Nimble 2",
-	"author": "Colin Bate",
-	"action": {
-		"title": "Nimble Sheet",
-		"icon": "/favicon.svg",
-		"popover": "/",
-		"height": 850,
-		"width": 400
-	}
+  "name": "Nimble Sheet (Dice+)",
+  "version": "1.9.1-diceplus",
+  "manifest_version": 1,
+  "icon": "https://YOUR-USERNAME.github.io/nimblesheet/favicon.svg",
+  "homepage_url": "https://github.com/YOUR-USERNAME/nimblesheet",
+  "description": "Nimble 2 character sheet with Dice+ integration",
+  "author": "Your Name",
+  "action": {
+    "title": "Nimble Sheet (Dice+)",
+    "icon": "/favicon.svg",
+    "popover": "/",
+    "height": 850,
+    "width": 400
+  }
 }
